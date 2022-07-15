@@ -1,0 +1,18 @@
+@mixin flex( $dir , $wrap , $just , $alig){
+    display: flex;
+    flex-flow: $dir $wrap;
+    justify-content: $just;
+
+    @if $wrap == 'wrap' {
+        align-content: $alig;    
+    }@else{
+        align-items: $alig;
+    }
+    
+}
+
+@mixin media( $medida : 480px ){
+    @media screen and (max-width: $medida){
+        @content
+    }
+}

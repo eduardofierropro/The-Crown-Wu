@@ -1,0 +1,59 @@
+@keyframes peloWu{
+    0%{
+        transform: scale(.96) rotateX(0deg) skewX(0deg);
+    }
+    50%{
+        transform: scale(.96) rotateX(-10deg) skewX(-15deg);
+    }
+    100%{
+        transform: scale(.96) rotateX(0deg) skewX(0deg);
+    }
+}
+@keyframes bodyWu{
+    0%{
+        transform: rotate(-10deg);
+    }
+    50%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(-10deg);
+        
+    }
+}
+@keyframes slideUp{
+    from{
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@keyframes slideDown{
+    from{
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@keyframes slideRight{
+    from{
+        transform: translateX(-60vw);
+    }
+    to{
+        transform: translateX(0vw);
+    }
+}
+@keyframes fadeOut{
+    from{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
