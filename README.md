@@ -4,7 +4,6 @@
 
 Este año se está preparando el juego de The Crown of Wu, un juego donde su CEO es mi compañero de trabajo por lo tanto he querido hacer una mini landing page para pasar el ratillo y dar a conocer el juego.
 
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/The-Crown-Wu/)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardofierropro/The-Crown-Wu)
 [![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=zR3B_5uduec)
 
